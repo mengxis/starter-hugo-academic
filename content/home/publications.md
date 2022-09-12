@@ -9,6 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 30
 
+active: false
+
 title: Recent Publications
 subtitle: ''
 
