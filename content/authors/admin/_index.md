@@ -6,7 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ education:
     - course: MA in Public Policy with Certificate in Research Methods
       institution: University of Chicago
       year: 2018
-    - course: BSc in Mathematics, Economics, and History of Art
+    - course: BS in Mathematics (honors), Economics, and History of Art
       institution: University of Michigan
       year: 2015
 
