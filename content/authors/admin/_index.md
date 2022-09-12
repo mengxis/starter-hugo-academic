@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mengxi Sun
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Pittsburgh 
-      year: 2024 expected
+      year: 2024 (expected)
     - course: MA in Public Policy with Certificate in Research Methods
       institution: University of Chicago
       year: 2018
@@ -43,18 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/MengxiS
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mengxis
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am broadly interested in microeconomic theory and game theory. My current projects study behavioral models of communication games.
+I am primarily interested in game theory and information economics. My current projects study behavioral models of communication games.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
