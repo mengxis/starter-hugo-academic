@@ -14,7 +14,7 @@ organizations:
     url: https://www.econ.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Economics
       institution: University of Pittsburgh 
       year: 2024 expected
     - course: MA in Public Policy with Certificate in Research Methods
@@ -70,8 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. candiate in Economics at the University of Pittsburgh. I am broadly interested in microeconomic theory and game theory. My current projects study behavioral models of communication games.
+I am broadly interested in microeconomic theory and game theory. My current projects study behavioral models of communication games.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
