@@ -70,4 +70,4 @@ highlight_name: true
 My name is Mengxi Sun. I am a fourth year Ph.D student in the Department of Economics at the University of Pittsburgh. I am primarily interested in game theory and information economics. My current projects study behavioral models of communication games.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
