@@ -20,7 +20,7 @@ subtitle:
 feature:
   - name: Latex
   - name: Python
-  - name: NLP (Topic Modeling, Phrase Generation, Sentiment Analysis)
+  - name: NLP (Topic Modeling, Keyphrase Generation, etc.)
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
